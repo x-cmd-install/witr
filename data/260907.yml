@@ -5,13 +5,13 @@ about:
   head: dc4fa1d
   archived: false
   latestVersion: "v0.3.3"
-  collectedAt: 2026-09-07T04:33:41Z
+  collectedAt: 2026-09-07T19:54:41Z
 timeline:
   created: 2025-12-20
   lastCommit: 2026-08-08
   lastRelease: 2026-06-24
 popularity:
-  star: 22114
+  star: 22123
   watcher: 47
   fork: 772
   release: 21
@@ -83,7 +83,7 @@ total:
   commit: 588
 ---
 path: /home/runner/.x-repo/github.com/pranshuparmar/witr
-collectedAt: 2026-09-07T04:33:42Z
+collectedAt: 2026-09-07T19:54:43Z
 loc:
   Go:
     code: 274254
@@ -169,7 +169,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:43+00:00
+  collectedAt: 2026-09-07T19:54:44+00:00
   platform:
     darwin/arm64:
       name:  witr-darwin-arm64
