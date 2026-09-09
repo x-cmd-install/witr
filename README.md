@@ -7,7 +7,7 @@ Why is this running? Trace any process, port, container, or file back to what st
 - **Latest release**: `v0.3.3` (2026-06-24)
 - **Last commit**: 2026-08-08
 - **License**: Apache-2.0
-- **Stars**: 22135 · **Forks**: 772 · **Open issues**: 87 · **Contributors**: 36
+- **Stars**: 22142 · **Forks**: 772 · **Open issues**: 87 · **Contributors**: 36
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/witr> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:40:21Z._
+_Last regenerated: 2026-09-09T18:38:19Z._
