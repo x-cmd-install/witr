@@ -12,6 +12,18 @@ Why is this running? Trace any process, port, container, or file back to what st
 x install witr
 ```
 
+## 代码规模
+
+合计: **286,253** 行代码（覆盖前 5 种语言、共 **969** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 274,254 | 31,061 | 31,540 | 919 |
+| AssemblyGAS | 6,432 | 303 | 1,663 | 32 |
+| JavaScript | 3,192 | 298 | 394 | 13 |
+| Sh | 1,066 | 66 | 57 | 4 |
+| Css | 571 | 77 | 36 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/pranshuparmar/witr>
@@ -23,6 +35,25 @@ x install witr
 - **最新版本**: `v0.3.3` (2026-06-24)
 - **最近提交**: 2026-08-08
 - **Release 含资产**: 16 个
+
+## 流行度
+
+- **Star**: 22,154 · **Fork**: 771 · **开放 issue**: 87 · **贡献者**: 36
+
+## 累计统计
+
+- **发布数**: 21 · **已合并 PR**: 113 · **开放 PR**: 7 · **已关闭 issue**: 78 · **开放 issue**: 9 · **提交数**: 588
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last60d | 2026-07-12 | 0 | 7 | 7 | 2 | 8 | 32 |
+| 90d | 2026-06-12 | 1 | 9 | 7 | 5 | 8 | 84 |
+| last180d | 2026-03-14 | 3 | 15 | 7 | 21 | 9 | 117 |
+| 360d | 2025-09-15 | 21 | 113 | 7 | 78 | 9 | 398 |
+| last720d | 2024-09-20 | 21 | 113 | 7 | 78 | 9 | 588 |
 
 ## Release 资产
 
@@ -45,33 +76,17 @@ x install witr
 | [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-arm64.zip) | 2.1 MiB | `native/win/arm64` |
 | [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr.1) | 2.3 KiB | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 22,148 · **Fork**: 771 · **开放 issue**: 87 · **贡献者**: 36
+在 [repology.org](https://repology.org/project/witr) 上共有 **22** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 21 · **已合并 PR**: 113 · **开放 PR**: 7 · **已关闭 issue**: 78 · **开放 issue**: 9 · **提交数**: 588
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 4 | 0 |
-| 90d | 2026-06-12 | 1 | 9 | 7 | 5 | 8 | 84 |
-| 360d | 2025-09-15 | 21 | 113 | 7 | 78 | 9 | 398 |
-
-## 代码规模
-
-合计: **286,253** 行代码（覆盖前 5 种语言、共 **969** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 274,254 | 31,061 | 31,540 | 919 |
-| AssemblyGAS | 6,432 | 303 | 1,663 | 32 |
-| JavaScript | 3,192 | 298 | 394 | 13 |
-| Sh | 1,066 | 66 | 57 | 4 |
-| Css | 571 | 77 | 36 | 1 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.3.1` | ⚠️ outdated |
+| Debian 14 | `0.3.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.2.4` | ⚠️ outdated |
+| Homebrew | `0.3.3` | ✅ latest |
+| Nix unstable | `0.3.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -82,4 +97,4 @@ witr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:12:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:19:20Z._
