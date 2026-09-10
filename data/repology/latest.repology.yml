@@ -1,0 +1,269 @@
+- repo: nix_unstable
+  srcname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Command-line tool to find out why processes are running
+  maintainers:
+    - thegu5@github
+  licenses:
+    - Apache-2.0
+- repo: kali_rolling
+  subrepo: main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
+- repo: raspbian_testing
+  subrepo: main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
+- repo: altsisyphus
+  srcname: witr
+  binnames:
+    - witr
+    - witr-debuginfo
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-alt1
+  status: newest
+  summary: Why is this running?
+  maintainers:
+    - snk@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Monitoring
+- repo: aosc
+  srcname: app-utils/witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: newest
+  summary: CLI tool that explains the causal chain behind running processes
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: aur
+  srcname: witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: newest
+  summary: A tool to determine why a process is running.
+  maintainers:
+    - fzerorubigd@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: witr-bin
+  binname: witr-bin
+  visiblename: witr-bin
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: newest
+  summary: A Linux CLI tool that explains the causal chain behind running processes
+  maintainers:
+    - mopoke@aur
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Why is this running? Explains the causal chain behind running processes with additional insights.
+- repo: debian_14
+  subrepo: forky/main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
+- repo: freebsd
+  srcname: sysutils/witr
+  binname: witr
+  visiblename: sysutils/witr
+  version: 0.3.3
+  origversion: 0.3.3_4
+  status: newest
+  summary: Witr (why-is-this-running)
+  maintainers:
+    - gaod@hychen.org
+  categories:
+    - sysutils
+- repo: gnuguix
+  srcname: witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Utility to show why the process is running
+- repo: homebrew
+  srcname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Why is this running?
+- repo: macports
+  srcname: sysutils/witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Why is this running?
+  maintainers:
+    - i0ntempest@macports
+    - i0ntempest@github
+  licenses:
+    - Apache-2
+  categories:
+    - sysutils
+- repo: nix_stable_26_05
+  srcname: witr
+  visiblename: witr
+  version: 0.3.2
+  origversion: null
+  status: outdated
+  summary: Command-line tool to find out why processes are running
+  maintainers:
+    - thegu5@github
+  licenses:
+    - Apache-2.0
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.2
+  origversion: 0.3.2-1
+  status: outdated
+  summary: Program searches for what is running application
+  maintainers:
+    - survolog@yandex.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Monitoring
+- repo: scoop
+  subrepo: main
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: slackbuilds
+  srcname: system/witr
+  visiblename: system/witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  maintainers:
+    - rizitis@gmail.com
+  categories:
+    - system
+- repo: t2
+  srcname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Show why is this process running
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - APL
+  categories:
+    - extra/network
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.2.4
+  origversion: 0.2.4+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - universe/admin
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - universe/admin
