@@ -4,7 +4,7 @@
 
 Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. 
 
-![witr](https://repo.x-cmd.io/witr.svg)
+![witr](https://repo.x-cmd.io/witr.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,31 @@ x install witr
 - **最新版本**: `v0.3.3` (2026-06-24)
 - **最近提交**: 2026-08-08
 - **Release 含资产**: 16 个
-- **发布时间**: 2026-06-24T06:48:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [SHA256SUMS](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/SHA256SUMS) | 1.2 KiB | `other` |
+| [witr-0.3.3-linux-amd64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.apk) | 2.8 MiB | `native/linux/x64` |
+| [witr-0.3.3-linux-amd64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.deb) | 2.7 MiB | `native/linux/x64` |
+| [witr-0.3.3-linux-amd64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.rpm) | 2.7 MiB | `native/linux/x64` |
+| [witr-0.3.3-linux-arm64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.apk) | 2.5 MiB | `native/linux/arm64` |
+| [witr-0.3.3-linux-arm64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.deb) | 2.5 MiB | `native/linux/arm64` |
+| [witr-0.3.3-linux-arm64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.rpm) | 2.4 MiB | `native/linux/arm64` |
+| [witr-darwin-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-darwin-amd64) | 6.8 MiB | `native/darwin/x64` |
+| [witr-darwin-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-darwin-arm64) | 6.5 MiB | `native/darwin/arm64` |
+| [witr-freebsd-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-freebsd-amd64) | 6.5 MiB | `other` |
+| [witr-freebsd-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-freebsd-arm64) | 6.3 MiB | `other` |
+| [witr-linux-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-linux-amd64) | 7.5 MiB | `native/linux/x64` |
+| [witr-linux-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-linux-arm64) | 7.2 MiB | `native/linux/arm64` |
+| [witr-windows-amd64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-amd64.zip) | 2.4 MiB | `native/win/x64` |
+| [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-arm64.zip) | 2.1 MiB | `native/win/arm64` |
+| [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr.1) | 2.3 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 22,146 · **Fork**: 771 · **开放 issue**: 87 · **贡献者**: 36
+- **Star**: 22,148 · **Fork**: 771 · **开放 issue**: 87 · **贡献者**: 36
 
 ## 累计统计
 
@@ -62,4 +82,4 @@ witr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:44:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:12:35Z._

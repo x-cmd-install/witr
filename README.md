@@ -23,11 +23,31 @@ x install witr
 - **Latest**: `v0.3.3` (2026-06-24)
 - **Last commit**: 2026-08-08
 - **Assets in release**: 16
-- **Published**: 2026-06-24T06:48:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [SHA256SUMS](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/SHA256SUMS) | 1.2 KiB | `other` |
+| [witr-0.3.3-linux-amd64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.apk) | 2.8 MiB | `native/linux/x64` |
+| [witr-0.3.3-linux-amd64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.deb) | 2.7 MiB | `native/linux/x64` |
+| [witr-0.3.3-linux-amd64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.rpm) | 2.7 MiB | `native/linux/x64` |
+| [witr-0.3.3-linux-arm64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.apk) | 2.5 MiB | `native/linux/arm64` |
+| [witr-0.3.3-linux-arm64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.deb) | 2.5 MiB | `native/linux/arm64` |
+| [witr-0.3.3-linux-arm64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.rpm) | 2.4 MiB | `native/linux/arm64` |
+| [witr-darwin-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-darwin-amd64) | 6.8 MiB | `native/darwin/x64` |
+| [witr-darwin-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-darwin-arm64) | 6.5 MiB | `native/darwin/arm64` |
+| [witr-freebsd-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-freebsd-amd64) | 6.5 MiB | `other` |
+| [witr-freebsd-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-freebsd-arm64) | 6.3 MiB | `other` |
+| [witr-linux-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-linux-amd64) | 7.5 MiB | `native/linux/x64` |
+| [witr-linux-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-linux-arm64) | 7.2 MiB | `native/linux/arm64` |
+| [witr-windows-amd64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-amd64.zip) | 2.4 MiB | `native/win/x64` |
+| [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-arm64.zip) | 2.1 MiB | `native/win/arm64` |
+| [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr.1) | 2.3 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 22,146 · **Forks**: 771 · **Open issues**: 87 · **Contributors**: 36
+- **Stars**: 22,148 · **Forks**: 771 · **Open issues**: 87 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -58,8 +78,8 @@ Total: **286,253** lines of code across **969** files in the top 5 languages.
 Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `witr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/witr.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/witr.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:44:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:12:35Z._
