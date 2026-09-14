@@ -38,22 +38,22 @@ x install witr
 
 ## 流行度
 
-- **Star**: 22,237 · **Fork**: 773 · **开放 issue**: 87 · **贡献者**: 36
+- **Star**: 22,286 · **Fork**: 775 · **开放 issue**: 88 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 113 · **开放 PR**: 7 · **已关闭 issue**: 78 · **开放 issue**: 9 · **提交数**: 588
+- **发布数**: 21 · **已合并 PR**: 113 · **开放 PR**: 7 · **已关闭 issue**: 78 · **开放 issue**: 10 · **提交数**: 588
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last60d | 2026-07-15 | 0 | 6 | 7 | 2 | 8 | 32 |
-| 90d | 2026-06-15 | 1 | 9 | 7 | 5 | 8 | 84 |
-| last180d | 2026-03-17 | 3 | 15 | 7 | 16 | 9 | 117 |
-| 360d | 2025-09-18 | 21 | 113 | 7 | 78 | 9 | 398 |
-| last720d | 2024-09-23 | 21 | 113 | 7 | 78 | 9 | 588 |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 4 | 0 |
+| last60d | 2026-07-16 | 0 | 6 | 7 | 2 | 9 | 21 |
+| 90d | 2026-06-16 | 1 | 9 | 7 | 5 | 9 | 74 |
+| last180d | 2026-03-18 | 3 | 14 | 7 | 16 | 10 | 108 |
+| 360d | 2025-09-19 | 21 | 113 | 7 | 78 | 10 | 398 |
+| last720d | 2024-09-24 | 21 | 113 | 7 | 78 | 10 | 588 |
 
 ## Release 资产
 
@@ -76,18 +76,6 @@ x install witr
 | [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-arm64.zip) | 2.1 MiB | `native/win/arm64` |
 | [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr.1) | 2.3 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/witr) 上共有 **22** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.3.1` | ⚠️ outdated |
-| Debian 14 | `0.3.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.2.4` | ⚠️ outdated |
-| Homebrew | `0.3.3` | ✅ latest |
-| Nix unstable | `0.3.3` | ✅ latest |
-
 ## 改进这些数据
 
 witr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `witr` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +85,4 @@ witr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:46:48Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:03:00Z._
