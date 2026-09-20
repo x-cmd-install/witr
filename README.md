@@ -4,7 +4,7 @@
 
 Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. 
 
-![witr](https://repo.x-cmd.io/witr.svg)
+[![x-cmd/install — witr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/witr.svg)](https://x-cmd.com/install/witr)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **286,253** lines of code across **969** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,378 · **Forks**: 781 · **Open issues**: 88 · **Contributors**: 36
+- **Stars**: 22,404 · **Forks**: 783 · **Open issues**: 88 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **286,253** lines of code across **969** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 4 | 0 |
-| last60d | 2026-07-20 | 0 | 6 | 7 | 2 | 9 | 21 |
-| 90d | 2026-06-20 | 1 | 8 | 7 | 3 | 9 | 74 |
-| last180d | 2026-03-22 | 2 | 14 | 7 | 16 | 10 | 108 |
-| 360d | 2025-09-23 | 21 | 113 | 7 | 78 | 10 | 398 |
-| last720d | 2024-09-28 | 21 | 113 | 7 | 78 | 10 | 588 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 4 | 0 |
+| last60d | 2026-07-22 | 0 | 6 | 7 | 2 | 9 | 21 |
+| 90d | 2026-06-22 | 1 | 8 | 7 | 3 | 9 | 74 |
+| last180d | 2026-03-24 | 2 | 14 | 7 | 16 | 10 | 108 |
+| 360d | 2025-09-25 | 21 | 113 | 7 | 78 | 10 | 398 |
+| last720d | 2024-09-30 | 21 | 113 | 7 | 78 | 10 | 588 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:56:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:59:15Z._
