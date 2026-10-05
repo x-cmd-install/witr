@@ -14,15 +14,15 @@ x install witr
 
 ## 代码洞察
 
-合计: **286,348** 行代码（覆盖前 5 种语言、共 **969** 个文件）。
+合计: **291,501** 行代码（覆盖前 5 种语言、共 **992** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 274,349 | 31,064 | 31,547 | 919 |
-| AssemblyGAS | 6,432 | 303 | 1,663 | 32 |
-| JavaScript | 3,192 | 298 | 394 | 13 |
-| Sh | 1,066 | 66 | 57 | 4 |
-| Css | 571 | 77 | 36 | 1 |
+| Go | 279,112 | 31,658 | 31,911 | 942 |
+| AssemblyGAS | 6,548 | 303 | 1,691 | 32 |
+| JavaScript | 3,388 | 325 | 413 | 13 |
+| Sh | 1,073 | 66 | 57 | 4 |
+| Css | 573 | 77 | 36 | 1 |
 
 ## 源代码
 
@@ -32,49 +32,53 @@ x install witr
 
 ## 发布
 
-- **最新版本**: `v0.3.3` (2026-06-24)
-- **最近提交**: 2026-10-03
-- **Release 含资产**: 16 个
+- **最新版本**: `v0.3.4` (2026-10-04)
+- **最近提交**: 2026-10-04
+- **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 22,575 · **Fork**: 789 · **开放 issue**: 90 · **贡献者**: 37
+- **Star**: 22,579 · **Fork**: 789 · **开放 issue**: 90 · **贡献者**: 43
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 118 · **开放 PR**: 0 · **已关闭 issue**: 79 · **开放 issue**: 11 · **提交数**: 591
+- **发布数**: 22 · **已合并 PR**: 120 · **开放 PR**: 1 · **已关闭 issue**: 89 · **开放 issue**: 1 · **提交数**: 643
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 2 | 0 | 1 | 2 | 2 |
-| last60d | 2026-08-05 | 0 | 5 | 0 | 2 | 8 | 4 |
-| 90d | 2026-07-06 | 0 | 12 | 0 | 3 | 10 | 36 |
-| last180d | 2026-04-07 | 2 | 19 | 0 | 15 | 11 | 110 |
-| 360d | 2025-10-09 | 21 | 118 | 0 | 79 | 11 | 400 |
-| last720d | 2024-10-14 | 21 | 118 | 0 | 79 | 11 | 591 |
+| 30d | 2026-09-05 | 1 | 4 | 1 | 3 | 0 | 36 |
+| last60d | 2026-08-06 | 1 | 7 | 1 | 10 | 0 | 39 |
+| 90d | 2026-07-07 | 1 | 14 | 1 | 13 | 0 | 75 |
+| last180d | 2026-04-08 | 3 | 21 | 1 | 25 | 1 | 151 |
+| 360d | 2025-10-10 | 22 | 120 | 1 | 89 | 1 | 441 |
+| last720d | 2024-10-15 | 22 | 120 | 1 | 89 | 1 | 643 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [SHA256SUMS](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/SHA256SUMS) | 1.2 KiB | `other` |
-| [witr-0.3.3-linux-amd64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.apk) | 2.8 MiB | `native/linux/x64` |
-| [witr-0.3.3-linux-amd64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.deb) | 2.7 MiB | `native/linux/x64` |
-| [witr-0.3.3-linux-amd64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-amd64.rpm) | 2.7 MiB | `native/linux/x64` |
-| [witr-0.3.3-linux-arm64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.apk) | 2.5 MiB | `native/linux/arm64` |
-| [witr-0.3.3-linux-arm64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.deb) | 2.5 MiB | `native/linux/arm64` |
-| [witr-0.3.3-linux-arm64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-0.3.3-linux-arm64.rpm) | 2.4 MiB | `native/linux/arm64` |
-| [witr-darwin-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-darwin-amd64) | 6.8 MiB | `native/darwin/x64` |
-| [witr-darwin-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-darwin-arm64) | 6.5 MiB | `native/darwin/arm64` |
-| [witr-freebsd-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-freebsd-amd64) | 6.5 MiB | `other` |
-| [witr-freebsd-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-freebsd-arm64) | 6.3 MiB | `other` |
-| [witr-linux-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-linux-amd64) | 7.5 MiB | `native/linux/x64` |
-| [witr-linux-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-linux-arm64) | 7.2 MiB | `native/linux/arm64` |
-| [witr-windows-amd64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-amd64.zip) | 2.4 MiB | `native/win/x64` |
-| [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr-windows-arm64.zip) | 2.1 MiB | `native/win/arm64` |
-| [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.3/witr.1) | 2.3 KiB | `other` |
+| [SHA256SUMS](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/SHA256SUMS) | 1.6 KiB | `other` |
+| [witr-0.3.4-linux-amd64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-amd64.apk) | 2.8 MiB | `native/linux/x64` |
+| [witr-0.3.4-linux-amd64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-amd64.deb) | 2.7 MiB | `native/linux/x64` |
+| [witr-0.3.4-linux-amd64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-amd64.rpm) | 2.7 MiB | `native/linux/x64` |
+| [witr-0.3.4-linux-arm64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.apk) | 2.6 MiB | `native/linux/arm64` |
+| [witr-0.3.4-linux-arm64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.deb) | 2.5 MiB | `native/linux/arm64` |
+| [witr-0.3.4-linux-arm64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.rpm) | 2.5 MiB | `native/linux/arm64` |
+| [witr-0.3.4-linux-loong64.apk](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-loong64.apk) | 2.6 MiB | `other` |
+| [witr-0.3.4-linux-loong64.deb](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-loong64.deb) | 2.6 MiB | `other` |
+| [witr-0.3.4-linux-loong64.rpm](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-loong64.rpm) | 2.6 MiB | `other` |
+| [witr-darwin-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-darwin-amd64) | 6.8 MiB | `native/darwin/x64` |
+| [witr-darwin-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-darwin-arm64) | 6.6 MiB | `native/darwin/arm64` |
+| [witr-freebsd-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-freebsd-amd64) | 6.5 MiB | `other` |
+| [witr-freebsd-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-freebsd-arm64) | 6.4 MiB | `other` |
+| [witr-linux-amd64](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-linux-amd64) | 7.5 MiB | `native/linux/x64` |
+| [witr-linux-arm64](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-linux-arm64) | 7.3 MiB | `native/linux/arm64` |
+| [witr-linux-loong64](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-linux-loong64) | 7.5 MiB | `other` |
+| [witr-windows-amd64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-amd64.zip) | 2.4 MiB | `native/win/x64` |
+| [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-arm64.zip) | 2.2 MiB | `native/win/arm64` |
+| [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr.1) | 2.3 KiB | `other` |
 
 ## 改进这些数据
 
@@ -85,4 +89,4 @@ witr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261004.yml` · 2026-10-04T05:51:00Z._
+_数据快照: `data/card/261005.yml` · 2026-10-05T05:34:57Z._
