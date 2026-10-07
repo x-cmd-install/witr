@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1610,
       "digest": "sha256:ca4581174d49fceab59a1596a049d6a0e9e770b7e497d0289ae2f73ebcd407b6",
-      "download_count": 43,
+      "download_count": 53,
       "created_at": "2026-10-04T17:33:12Z",
       "updated_at": "2026-10-04T17:33:12Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/SHA256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2935168,
       "digest": "sha256:89273d39c25b8e5a8040c5f0413c38fdcfbee5967ef4277a4145392e79029f53",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-04T17:33:10Z",
       "updated_at": "2026-10-04T17:33:11Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-amd64.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2830430,
       "digest": "sha256:fa72d5fc255c992c18eb42dabf314eb26ed7590eb39be2c9cd37bb3e2c1cf61c",
-      "download_count": 13,
+      "download_count": 23,
       "created_at": "2026-10-04T17:33:12Z",
       "updated_at": "2026-10-04T17:33:12Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2833674,
       "digest": "sha256:77cc5de75230ce0a6d86935a7d9e8b9dc4da246f86cbeed63ffd965c24afe1f8",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-10-04T17:33:11Z",
       "updated_at": "2026-10-04T17:33:11Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-amd64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2676246,
       "digest": "sha256:139be971166b7d99f322b237d02d8c5fb1fb5879b25e8f537ce8a6b0facb37e4",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-04T17:33:10Z",
       "updated_at": "2026-10-04T17:33:11Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.apk"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2584524,
       "digest": "sha256:0b4cff46201bad35f8f56ee6d9e1a8b87b8dc7df376fbf76cbc8087c86e76a82",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-04T17:33:11Z",
       "updated_at": "2026-10-04T17:33:11Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-0.3.4-linux-arm64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7135392,
       "digest": "sha256:e8dae6b77e71826805fb1e27a22ca2ec90d85cb50809044dab3a3232269b5f74",
-      "download_count": 17,
+      "download_count": 24,
       "created_at": "2026-10-04T17:33:09Z",
       "updated_at": "2026-10-04T17:33:10Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-darwin-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 6935586,
       "digest": "sha256:731b7ed07b07e4c413bfcfae7e4865b5020f7f2379c7f1cdea09c235c5280515",
-      "download_count": 21,
+      "download_count": 46,
       "created_at": "2026-10-04T17:33:08Z",
       "updated_at": "2026-10-04T17:33:09Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-darwin-arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7905464,
       "digest": "sha256:d99098c61002f9b8a5337977d527dbe8ee29453f2a62c531038ea2749ea738eb",
-      "download_count": 128,
+      "download_count": 231,
       "created_at": "2026-10-04T17:33:08Z",
       "updated_at": "2026-10-04T17:33:09Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-linux-amd64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 7667896,
       "digest": "sha256:ecd737fcca418026514ed45a6ad06ecc2e02997e1b75ed6e7100ac8cc69eee54",
-      "download_count": 18,
+      "download_count": 35,
       "created_at": "2026-10-04T17:33:09Z",
       "updated_at": "2026-10-04T17:33:10Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-linux-arm64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 7864504,
       "digest": "sha256:7b9b6a0ecd22a67bd9db7e3c51e3f1808ff898909c7a63c4f630f0af51f11407",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-04T17:33:08Z",
       "updated_at": "2026-10-04T17:33:09Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-linux-loong64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2508815,
       "digest": "sha256:34ef930e6f53c026e952f5952442281640bae551e59477137a045f9a2141188f",
-      "download_count": 201,
+      "download_count": 260,
       "created_at": "2026-10-04T17:33:10Z",
       "updated_at": "2026-10-04T17:33:10Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-amd64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2263902,
       "digest": "sha256:c1db651220bc8a86433fba7e680c87f9db868a41c0fb144427f37750ec62a7ce",
-      "download_count": 23,
+      "download_count": 33,
       "created_at": "2026-10-04T17:33:09Z",
       "updated_at": "2026-10-04T17:33:10Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-arm64.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 2312,
       "digest": "sha256:1aedbe58bbf041c9cf2db195a700a96b1f678228b24366be90b669e9246e8ef4",
-      "download_count": 45,
+      "download_count": 71,
       "created_at": "2026-10-04T17:33:12Z",
       "updated_at": "2026-10-04T17:33:12Z",
       "browser_download_url": "https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr.1"
