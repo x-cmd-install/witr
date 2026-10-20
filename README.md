@@ -14,11 +14,11 @@ x install witr
 
 ## Code insight
 
-Total: **291,501** lines of code across **992** files in the top 5 languages.
+Total: **291,506** lines of code across **992** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 279,112 | 31,658 | 31,911 | 942 |
+| Go | 279,117 | 31,664 | 31,911 | 942 |
 | AssemblyGAS | 6,548 | 303 | 1,691 | 32 |
 | JavaScript | 3,388 | 325 | 413 | 13 |
 | Sh | 1,073 | 66 | 57 | 4 |
@@ -33,27 +33,27 @@ Total: **291,501** lines of code across **992** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.4` (2026-10-04)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-19
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 22,716 · **Forks**: 882 · **Open issues**: 89 · **Contributors**: 43
+- **Stars**: 22,726 · **Forks**: 900 · **Open issues**: 89 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 120 · **Open PRs**: 2 · **Closed issues**: 88 · **Open issues**: 1 · **Commits**: 643
+- **Releases**: 22 · **Merged PRs**: 121 · **Open PRs**: 1 · **Closed issues**: 88 · **Open issues**: 1 · **Commits**: 646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 4 | 2 | 2 | 0 | 34 |
-| last60d | 2026-08-20 | 1 | 5 | 2 | 6 | 0 | 37 |
-| 90d | 2026-07-21 | 1 | 13 | 2 | 12 | 0 | 46 |
-| last180d | 2026-04-22 | 3 | 21 | 2 | 23 | 1 | 151 |
-| 360d | 2025-10-24 | 22 | 120 | 2 | 88 | 1 | 441 |
-| last720d | 2024-10-29 | 22 | 120 | 2 | 88 | 1 | 643 |
+| 30d | 2026-09-20 | 1 | 5 | 1 | 2 | 0 | 36 |
+| last60d | 2026-08-21 | 1 | 6 | 1 | 6 | 0 | 39 |
+| 90d | 2026-07-22 | 1 | 14 | 1 | 12 | 0 | 48 |
+| last180d | 2026-04-23 | 3 | 22 | 1 | 23 | 1 | 153 |
+| 360d | 2025-10-25 | 22 | 121 | 1 | 88 | 1 | 443 |
+| last720d | 2024-10-30 | 22 | 121 | 1 | 88 | 1 | 646 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:42:23Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:50:01Z._
