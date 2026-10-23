@@ -14,11 +14,11 @@ x install witr
 
 ## Code insight
 
-Total: **291,506** lines of code across **992** files in the top 5 languages.
+Total: **291,546** lines of code across **992** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 279,117 | 31,664 | 31,911 | 942 |
+| Go | 279,157 | 31,668 | 31,914 | 942 |
 | AssemblyGAS | 6,548 | 303 | 1,691 | 32 |
 | JavaScript | 3,388 | 325 | 413 | 13 |
 | Sh | 1,073 | 66 | 57 | 4 |
@@ -33,27 +33,27 @@ Total: **291,506** lines of code across **992** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.4` (2026-10-04)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-23
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 22,755 · **Forks**: 798 · **Open issues**: 89 · **Contributors**: 43
+- **Stars**: 22,767 · **Forks**: 799 · **Open issues**: 89 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 121 · **Open PRs**: 1 · **Closed issues**: 88 · **Open issues**: 1 · **Commits**: 646
+- **Releases**: 22 · **Merged PRs**: 121 · **Open PRs**: 1 · **Closed issues**: 88 · **Open issues**: 1 · **Commits**: 647
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 3 | 1 | 2 | 0 | 36 |
-| last60d | 2026-08-23 | 1 | 6 | 1 | 6 | 0 | 39 |
-| 90d | 2026-07-24 | 1 | 11 | 1 | 11 | 0 | 48 |
-| last180d | 2026-04-25 | 3 | 22 | 1 | 23 | 1 | 153 |
-| 360d | 2025-10-27 | 22 | 121 | 1 | 88 | 1 | 443 |
-| last720d | 2024-11-01 | 22 | 121 | 1 | 88 | 1 | 646 |
+| 30d | 2026-09-23 | 1 | 3 | 1 | 2 | 0 | 37 |
+| last60d | 2026-08-24 | 1 | 6 | 1 | 6 | 0 | 40 |
+| 90d | 2026-07-25 | 1 | 11 | 1 | 11 | 0 | 49 |
+| last180d | 2026-04-26 | 3 | 22 | 1 | 23 | 1 | 154 |
+| 360d | 2025-10-28 | 22 | 121 | 1 | 88 | 1 | 444 |
+| last720d | 2024-11-02 | 22 | 121 | 1 | 88 | 1 | 647 |
 
 ## Release assets
 
@@ -80,6 +80,18 @@ Total: **291,506** lines of code across **992** files in the top 5 languages.
 | [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-arm64.zip) | 2.2 MiB | `native/win/arm64` |
 | [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr.1) | 2.3 KiB | `other` |
 
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/witr). **8** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.3.1` | ⚠️ outdated |
+| Debian 14 | `0.3.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.2.4` | ⚠️ outdated |
+| Homebrew | `0.3.4` | ✅ latest |
+| Nix unstable | `0.3.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `witr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +101,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:37:50Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:50:26Z._
