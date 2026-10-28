@@ -1,15 +1,3 @@
-- repo: aur
-  srcname: witr
-  binname: witr
-  visiblename: witr
-  version: 0.3.3
-  origversion: 0.3.3-1
-  status: outdated
-  summary: A tool to determine why a process is running.
-  maintainers:
-    - fzerorubigd@aur
-  licenses:
-    - Apache-2.0
 - repo: raspbian_testing
   subrepo: main
   srcname: witr
@@ -24,18 +12,6 @@
     - maytham@debian.org
   categories:
     - admin
-- repo: aosc
-  srcname: app-utils/witr
-  binname: witr
-  visiblename: witr
-  version: 0.3.3
-  origversion: 0.3.3-1
-  status: outdated
-  summary: CLI tool that explains the causal chain behind running processes
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
 - repo: altsisyphus
   srcname: witr
   binnames:
@@ -52,13 +28,37 @@
     - Apache-2.0
   categories:
     - Monitoring
+- repo: aosc
+  srcname: app-utils/witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: outdated
+  summary: CLI tool that explains the causal chain behind running processes
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: aur
+  srcname: witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: outdated
+  summary: A tool to determine why a process is running.
+  maintainers:
+    - fzerorubigd@aur
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: witr-bin
   binname: witr-bin
   visiblename: witr-bin
-  version: 0.3.3
-  origversion: 0.3.3-1
-  status: outdated
+  version: 0.3.4
+  origversion: 0.3.4-1
+  status: newest
   summary: A Linux CLI tool that explains the causal chain behind running processes
   maintainers:
     - mopoke@aur
