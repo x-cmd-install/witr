@@ -1,3 +1,15 @@
+- repo: freebsd
+  srcname: sysutils/witr
+  binname: witr
+  visiblename: sysutils/witr
+  version: 0.3.3
+  origversion: 0.3.3_6
+  status: outdated
+  summary: Witr (why-is-this-running)
+  maintainers:
+    - gaod@hychen.org
+  categories:
+    - sysutils
 - repo: altsisyphus
   srcname: witr
   binnames:
@@ -99,18 +111,6 @@
     - maytham@debian.org
   categories:
     - admin
-- repo: freebsd
-  srcname: sysutils/witr
-  binname: witr
-  visiblename: sysutils/witr
-  version: 0.3.3
-  origversion: 0.3.3_6
-  status: outdated
-  summary: Witr (why-is-this-running)
-  maintainers:
-    - gaod@hychen.org
-  categories:
-    - sysutils
 - repo: gnuguix
   srcname: witr
   binname: witr
