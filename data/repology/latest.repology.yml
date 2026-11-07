@@ -1,15 +1,60 @@
-- repo: freebsd
-  srcname: sysutils/witr
-  binname: witr
-  visiblename: sysutils/witr
-  version: 0.3.3
-  origversion: 0.3.3_6
-  status: outdated
-  summary: Witr (why-is-this-running)
+- repo: t2
+  srcname: witr
+  visiblename: witr
+  version: 0.3.4
+  origversion: null
+  status: newest
+  summary: Show why is this process running
   maintainers:
-    - gaod@hychen.org
+    - rene@exactco.de
+  licenses:
+    - APL
   categories:
-    - sysutils
+    - extra/network
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.2.4
+  origversion: 0.2.4+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - universe/admin
+- repo: raspbian_testing
+  subrepo: main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.2
+  origversion: 0.3.2-1
+  status: outdated
+  summary: Program searches for what is running application
+  maintainers:
+    - survolog@yandex.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Monitoring
 - repo: altsisyphus
   srcname: witr
   binnames:
@@ -111,6 +156,18 @@
     - maytham@debian.org
   categories:
     - admin
+- repo: freebsd
+  srcname: sysutils/witr
+  binname: witr
+  visiblename: sysutils/witr
+  version: 0.3.3
+  origversion: 0.3.3_6
+  status: outdated
+  summary: Witr (why-is-this-running)
+  maintainers:
+    - gaod@hychen.org
+  categories:
+    - sysutils
 - repo: gnuguix
   srcname: witr
   binname: witr
@@ -177,36 +234,6 @@
     - gus+nix@gu5.org
   licenses:
     - Apache-2.0
-- repo: raspbian_testing
-  subrepo: main
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.3.1
-  origversion: 0.3.1+ds-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - maytham@debian.org
-  categories:
-    - admin
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.3.2
-  origversion: 0.3.2-1
-  status: outdated
-  summary: Program searches for what is running application
-  maintainers:
-    - survolog@yandex.ru
-  licenses:
-    - ASL 2.0
-  categories:
-    - Monitoring
 - repo: scoop
   subrepo: main
   binname: witr
@@ -226,35 +253,22 @@
     - rizitis@gmail.com
   categories:
     - system
-- repo: t2
-  srcname: witr
-  visiblename: witr
-  version: 0.3.4
-  origversion: null
-  status: newest
-  summary: Show why is this process running
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - APL
-  categories:
-    - extra/network
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
   srcname: witr
   binnames:
     - witr
   visiblename: witr
-  version: 0.2.4
-  origversion: 0.2.4+ds-1
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - maytham@debian.org
   categories:
     - universe/admin
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: witr
   binnames:
     - witr
