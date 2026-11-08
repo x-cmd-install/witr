@@ -1,32 +1,24 @@
-- repo: t2
-  srcname: witr
+- repo: aosc
+  srcname: app-utils/witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: outdated
+  summary: CLI tool that explains the causal chain behind running processes
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: chocolatey
+  binname: witr
   visiblename: witr
   version: 0.3.4
   origversion: null
   status: newest
-  summary: Show why is this process running
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - APL
-  categories:
-    - extra/network
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.2.4
-  origversion: 0.2.4+ds-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - maytham@debian.org
-  categories:
-    - universe/admin
-- repo: raspbian_testing
-  subrepo: main
+  summary: Why is this running? Explains the causal chain behind running processes with additional insights.
+- repo: debian_14
+  subrepo: forky/main
   srcname: witr
   binnames:
     - witr
@@ -39,22 +31,6 @@
     - maytham@debian.org
   categories:
     - admin
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.3.2
-  origversion: 0.3.2-1
-  status: outdated
-  summary: Program searches for what is running application
-  maintainers:
-    - survolog@yandex.ru
-  licenses:
-    - ASL 2.0
-  categories:
-    - Monitoring
 - repo: altsisyphus
   srcname: witr
   binnames:
@@ -71,18 +47,6 @@
     - Apache-2.0
   categories:
     - Monitoring
-- repo: aosc
-  srcname: app-utils/witr
-  binname: witr
-  visiblename: witr
-  version: 0.3.3
-  origversion: 0.3.3-1
-  status: outdated
-  summary: CLI tool that explains the causal chain behind running processes
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
 - repo: aur
   srcname: witr
   binname: witr
@@ -107,36 +71,15 @@
     - mopoke@aur
   licenses:
     - Apache-2.0
-- repo: chocolatey
-  binname: witr
-  visiblename: witr
-  version: 0.3.4
-  origversion: null
-  status: newest
-  summary: Why is this running? Explains the causal chain behind running processes with additional insights.
-- repo: debian_14
-  subrepo: forky/main
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.3.1
-  origversion: 0.3.1+ds-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - maytham@debian.org
-  categories:
-    - admin
 - repo: debian_unstable
   subrepo: sid/main
   srcname: witr
   binnames:
     - witr
   visiblename: witr
-  version: 0.3.1
-  origversion: 0.3.1+ds-1
-  status: outdated
+  version: 0.3.4
+  origversion: 0.3.4+ds-1
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - maytham@debian.org
@@ -148,9 +91,9 @@
   binnames:
     - witr
   visiblename: witr
-  version: 0.3.1
-  origversion: 0.3.1+ds-1
-  status: outdated
+  version: 0.3.4
+  origversion: 0.3.4+ds-1
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - maytham@debian.org
@@ -234,6 +177,36 @@
     - gus+nix@gu5.org
   licenses:
     - Apache-2.0
+- repo: raspbian_testing
+  subrepo: main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.2
+  origversion: 0.3.2-1
+  status: outdated
+  summary: Program searches for what is running application
+  maintainers:
+    - survolog@yandex.ru
+  licenses:
+    - ASL 2.0
+  categories:
+    - Monitoring
 - repo: scoop
   subrepo: main
   binname: witr
@@ -253,6 +226,33 @@
     - rizitis@gmail.com
   categories:
     - system
+- repo: t2
+  srcname: witr
+  visiblename: witr
+  version: 0.3.4
+  origversion: null
+  status: newest
+  summary: Show why is this process running
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - APL
+  categories:
+    - extra/network
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.2.4
+  origversion: 0.2.4+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - universe/admin
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: witr
