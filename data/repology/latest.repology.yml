@@ -1,3 +1,31 @@
+- repo: aur
+  srcname: witr-bin
+  binname: witr-bin
+  visiblename: witr-bin
+  version: 0.3.4
+  origversion: 0.3.4-1
+  status: newest
+  summary: A Linux CLI tool that explains the causal chain behind running processes
+  maintainers:
+    - mopoke@aur
+  licenses:
+    - Apache-2.0
+- repo: altsisyphus
+  srcname: witr
+  binnames:
+    - witr
+    - witr-debuginfo
+  visiblename: witr
+  version: 0.3.4
+  origversion: 0.3.4-alt1
+  status: newest
+  summary: Why is this running?
+  maintainers:
+    - snk@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Monitoring
 - repo: aosc
   srcname: app-utils/witr
   binname: witr
@@ -10,6 +38,18 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
+- repo: aur
+  srcname: witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: outdated
+  summary: A tool to determine why a process is running.
+  maintainers:
+    - fzerorubigd@aur
+  licenses:
+    - Apache-2.0
 - repo: chocolatey
   binname: witr
   visiblename: witr
@@ -31,46 +71,6 @@
     - maytham@debian.org
   categories:
     - admin
-- repo: altsisyphus
-  srcname: witr
-  binnames:
-    - witr
-    - witr-debuginfo
-  visiblename: witr
-  version: 0.3.4
-  origversion: 0.3.4-alt1
-  status: newest
-  summary: Why is this running?
-  maintainers:
-    - snk@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Monitoring
-- repo: aur
-  srcname: witr
-  binname: witr
-  visiblename: witr
-  version: 0.3.3
-  origversion: 0.3.3-1
-  status: outdated
-  summary: A tool to determine why a process is running.
-  maintainers:
-    - fzerorubigd@aur
-  licenses:
-    - Apache-2.0
-- repo: aur
-  srcname: witr-bin
-  binname: witr-bin
-  visiblename: witr-bin
-  version: 0.3.4
-  origversion: 0.3.4-1
-  status: newest
-  summary: A Linux CLI tool that explains the causal chain behind running processes
-  maintainers:
-    - mopoke@aur
-  licenses:
-    - Apache-2.0
 - repo: debian_unstable
   subrepo: sid/main
   srcname: witr
@@ -276,6 +276,20 @@
   version: 0.3.1
   origversion: 0.3.1+ds-1
   status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - universe/admin
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.4
+  origversion: 0.3.4+ds-1
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - maytham@debian.org
