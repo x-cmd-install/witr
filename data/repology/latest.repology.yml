@@ -104,7 +104,7 @@
   binname: witr
   visiblename: sysutils/witr
   version: 0.3.3
-  origversion: 0.3.3_6
+  origversion: 0.3.3_7
   status: outdated
   summary: Witr (why-is-this-running)
   maintainers:
