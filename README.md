@@ -38,22 +38,22 @@ Total: **291,546** lines of code across **992** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,990 · **Forks**: 811 · **Open issues**: 91 · **Contributors**: 43
+- **Stars**: 22,995 · **Forks**: 811 · **Open issues**: 92 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 121 · **Open PRs**: 4 · **Closed issues**: 89 · **Open issues**: 2 · **Commits**: 647
+- **Releases**: 22 · **Merged PRs**: 121 · **Open PRs**: 4 · **Closed issues**: 89 · **Open issues**: 3 · **Commits**: 647
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-09-14 | 1 | 5 | 4 | 2 | 1 | 39 |
-| 90d | 2026-08-15 | 1 | 6 | 4 | 6 | 1 | 41 |
-| last180d | 2026-05-17 | 2 | 19 | 4 | 20 | 1 | 137 |
-| 360d | 2025-11-18 | 22 | 121 | 4 | 89 | 2 | 444 |
-| last720d | 2024-11-23 | 22 | 121 | 4 | 89 | 2 | 647 |
+| 30d | 2026-10-15 | 0 | 0 | 3 | 0 | 2 | 1 |
+| last60d | 2026-09-15 | 1 | 5 | 4 | 2 | 2 | 39 |
+| 90d | 2026-08-16 | 1 | 6 | 4 | 6 | 2 | 41 |
+| last180d | 2026-05-18 | 2 | 19 | 4 | 18 | 2 | 137 |
+| 360d | 2025-11-19 | 22 | 121 | 4 | 89 | 3 | 444 |
+| last720d | 2024-11-24 | 22 | 121 | 4 | 89 | 3 | 647 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:44:03Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:29:08Z._
