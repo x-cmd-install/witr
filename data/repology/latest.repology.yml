@@ -273,20 +273,6 @@
   binnames:
     - witr
   visiblename: witr
-  version: 0.3.1
-  origversion: 0.3.1+ds-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - maytham@debian.org
-  categories:
-    - universe/admin
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
   version: 0.3.4
   origversion: 0.3.4+ds-1
   status: newest
