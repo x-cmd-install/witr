@@ -38,7 +38,7 @@ Total: **291,546** lines of code across **992** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,016 · **Forks**: 810 · **Open issues**: 91 · **Contributors**: 43
+- **Stars**: 23,023 · **Forks**: 810 · **Open issues**: 91 · **Contributors**: 43
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **291,546** lines of code across **992** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 4 | 0 | 2 | 1 |
-| last60d | 2026-09-17 | 1 | 5 | 5 | 2 | 2 | 37 |
-| 90d | 2026-08-18 | 1 | 6 | 5 | 6 | 2 | 40 |
-| last180d | 2026-05-20 | 2 | 18 | 5 | 18 | 2 | 134 |
-| 360d | 2025-11-21 | 22 | 121 | 5 | 88 | 3 | 444 |
-| last720d | 2024-11-26 | 22 | 121 | 5 | 88 | 3 | 647 |
+| 30d | 2026-10-18 | 0 | 0 | 4 | 0 | 2 | 1 |
+| last60d | 2026-09-18 | 1 | 5 | 5 | 2 | 2 | 37 |
+| 90d | 2026-08-19 | 1 | 6 | 5 | 6 | 2 | 40 |
+| last180d | 2026-05-21 | 2 | 18 | 5 | 18 | 2 | 134 |
+| 360d | 2025-11-22 | 22 | 121 | 5 | 88 | 3 | 444 |
+| last720d | 2024-11-27 | 22 | 121 | 5 | 88 | 3 | 647 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Total: **291,546** lines of code across **992** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/witr). **15** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/witr). **15** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:28:43Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:49:17Z._
