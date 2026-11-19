@@ -1,3 +1,24 @@
+- repo: homebrew
+  srcname: witr
+  visiblename: witr
+  version: 0.3.4
+  origversion: null
+  status: newest
+  summary: Why is this running?
+- repo: kali_rolling
+  subrepo: main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.1
+  origversion: 0.3.1+ds-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
 - repo: altsisyphus
   srcname: witr
   binnames:
@@ -19,7 +40,7 @@
   binname: witr
   visiblename: witr
   version: 0.3.3
-  origversion: 0.3.3-1
+  origversion: 0.3.3-2
   status: outdated
   summary: CLI tool that explains the causal chain behind running processes
   maintainers:
@@ -119,27 +140,6 @@
   origversion: null
   status: newest
   summary: Utility to show why the process is running
-- repo: homebrew
-  srcname: witr
-  visiblename: witr
-  version: 0.3.4
-  origversion: null
-  status: newest
-  summary: Why is this running?
-- repo: kali_rolling
-  subrepo: main
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.3.1
-  origversion: 0.3.1+ds-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - maytham@debian.org
-  categories:
-    - admin
 - repo: macports
   srcname: sysutils/witr
   binname: witr
