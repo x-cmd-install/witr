@@ -14,7 +14,7 @@ x install witr
 
 ## Code insight
 
-Total: **291,546** lines of code across **992** files in the top 5 languages.
+Total: **291,553** lines of code across **992** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **291,546** lines of code across **992** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.4` (2026-10-04)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-21
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 23,048 · **Forks**: 813 · **Open issues**: 91 · **Contributors**: 43
+- **Stars**: 23,054 · **Forks**: 813 · **Open issues**: 91 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 121 · **Open PRs**: 11 · **Closed issues**: 88 · **Open issues**: 3 · **Commits**: 647
+- **Releases**: 22 · **Merged PRs**: 125 · **Open PRs**: 6 · **Closed issues**: 89 · **Open issues**: 2 · **Commits**: 653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 10 | 0 | 2 | 1 |
-| last60d | 2026-09-22 | 1 | 3 | 11 | 2 | 2 | 37 |
-| 90d | 2026-08-23 | 1 | 6 | 11 | 6 | 2 | 40 |
-| last180d | 2026-05-25 | 2 | 17 | 11 | 18 | 2 | 134 |
-| 360d | 2025-11-26 | 22 | 121 | 11 | 88 | 3 | 444 |
-| last720d | 2024-12-01 | 22 | 121 | 11 | 88 | 3 | 647 |
+| 30d | 2026-10-23 | 0 | 4 | 5 | 1 | 1 | 6 |
+| last60d | 2026-09-23 | 1 | 7 | 6 | 3 | 1 | 42 |
+| 90d | 2026-08-24 | 1 | 10 | 6 | 7 | 1 | 45 |
+| last180d | 2026-05-26 | 2 | 21 | 6 | 19 | 1 | 139 |
+| 360d | 2025-11-27 | 22 | 125 | 6 | 89 | 2 | 449 |
+| last720d | 2024-12-02 | 22 | 125 | 6 | 89 | 2 | 653 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Total: **291,546** lines of code across **992** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/witr). **16** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/witr). **15** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:21:23Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:44:12Z._
