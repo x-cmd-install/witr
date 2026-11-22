@@ -1,69 +1,3 @@
-- repo: altsisyphus
-  srcname: witr
-  binnames:
-    - witr
-    - witr-debuginfo
-  visiblename: witr
-  version: 0.3.4
-  origversion: 0.3.4-alt1
-  status: newest
-  summary: Why is this running?
-  maintainers:
-    - snk@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Monitoring
-- repo: raspbian_testing
-  subrepo: main
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.3.4
-  origversion: 0.3.4+ds-1
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - maytham@debian.org
-  categories:
-    - admin
-- repo: aosc
-  srcname: app-utils/witr
-  binname: witr
-  visiblename: witr
-  version: 0.3.3
-  origversion: 0.3.3-2
-  status: outdated
-  summary: CLI tool that explains the causal chain behind running processes
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
-- repo: aur
-  srcname: witr
-  binname: witr
-  visiblename: witr
-  version: 0.3.3
-  origversion: 0.3.3-1
-  status: outdated
-  summary: A tool to determine why a process is running.
-  maintainers:
-    - fzerorubigd@aur
-  licenses:
-    - Apache-2.0
-- repo: aur
-  srcname: witr-bin
-  binname: witr-bin
-  visiblename: witr-bin
-  version: 0.3.4
-  origversion: 0.3.4-1
-  status: newest
-  summary: A Linux CLI tool that explains the causal chain behind running processes
-  maintainers:
-    - mopoke@aur
-  licenses:
-    - Apache-2.0
 - repo: chocolatey
   binname: witr
   visiblename: witr
@@ -92,20 +26,6 @@
     - witr
   visiblename: witr
   version: 0.3.4
-  origversion: 0.3.4+ds-1
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - maytham@debian.org
-  categories:
-    - admin
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: witr
-  binnames:
-    - witr
-  visiblename: witr
-  version: 0.3.4
   origversion: 0.3.4+ds-2
   status: newest
   maintainers:
@@ -113,6 +33,18 @@
     - maytham@debian.org
   categories:
     - admin
+- repo: aur
+  srcname: witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: outdated
+  summary: A tool to determine why a process is running.
+  maintainers:
+    - fzerorubigd@aur
+  licenses:
+    - Apache-2.0
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: witr
@@ -127,6 +59,46 @@
     - maytham@debian.org
   categories:
     - admin
+- repo: aur
+  srcname: witr-bin
+  binname: witr-bin
+  visiblename: witr-bin
+  version: 0.3.4
+  origversion: 0.3.4-1
+  status: newest
+  summary: A Linux CLI tool that explains the causal chain behind running processes
+  maintainers:
+    - mopoke@aur
+  licenses:
+    - Apache-2.0
+- repo: altsisyphus
+  srcname: witr
+  binnames:
+    - witr
+    - witr-debuginfo
+  visiblename: witr
+  version: 0.3.4
+  origversion: 0.3.4-alt1
+  status: newest
+  summary: Why is this running?
+  maintainers:
+    - snk@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Monitoring
+- repo: aosc
+  srcname: app-utils/witr
+  binname: witr
+  visiblename: witr
+  version: 0.3.3
+  origversion: 0.3.3-2
+  status: outdated
+  summary: CLI tool that explains the causal chain behind running processes
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: freebsd
   srcname: sysutils/witr
   binname: witr
@@ -205,6 +177,20 @@
     - gus+nix@gu5.org
   licenses:
     - Apache-2.0
+- repo: raspbian_testing
+  subrepo: main
+  srcname: witr
+  binnames:
+    - witr
+  visiblename: witr
+  version: 0.3.4
+  origversion: 0.3.4+ds-1
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - maytham@debian.org
+  categories:
+    - admin
 - repo: rosa_13
   subrepo: contrib/release
   srcname: witr
