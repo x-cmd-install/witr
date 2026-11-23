@@ -38,22 +38,22 @@ Total: **291,553** lines of code across **992** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,054 · **Forks**: 813 · **Open issues**: 91 · **Contributors**: 44
+- **Stars**: 23,248 · **Forks**: 824 · **Open issues**: 92 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 125 · **Open PRs**: 6 · **Closed issues**: 89 · **Open issues**: 2 · **Commits**: 653
+- **Releases**: 22 · **Merged PRs**: 125 · **Open PRs**: 7 · **Closed issues**: 89 · **Open issues**: 3 · **Commits**: 653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 4 | 5 | 1 | 1 | 6 |
-| last60d | 2026-09-23 | 1 | 7 | 6 | 3 | 1 | 42 |
-| 90d | 2026-08-24 | 1 | 10 | 6 | 7 | 1 | 45 |
-| last180d | 2026-05-26 | 2 | 21 | 6 | 19 | 1 | 139 |
-| 360d | 2025-11-27 | 22 | 125 | 6 | 89 | 2 | 449 |
-| last720d | 2024-12-02 | 22 | 125 | 6 | 89 | 2 | 653 |
+| 30d | 2026-10-24 | 0 | 3 | 6 | 1 | 2 | 3 |
+| last60d | 2026-09-24 | 1 | 7 | 7 | 3 | 2 | 42 |
+| 90d | 2026-08-25 | 1 | 10 | 7 | 7 | 2 | 45 |
+| last180d | 2026-05-27 | 2 | 21 | 7 | 18 | 2 | 137 |
+| 360d | 2025-11-28 | 22 | 125 | 7 | 89 | 3 | 449 |
+| last720d | 2024-12-03 | 22 | 125 | 7 | 89 | 3 | 653 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Total: **291,553** lines of code across **992** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/witr). **15** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/witr). **16** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:44:12Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:28:13Z._
