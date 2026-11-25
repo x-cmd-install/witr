@@ -38,7 +38,7 @@ Total: **291,553** lines of code across **992** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,413 · **Forks**: 830 · **Open issues**: 94 · **Contributors**: 44
+- **Stars**: 23,429 · **Forks**: 831 · **Open issues**: 94 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **291,553** lines of code across **992** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 6 | 3 | 1 | 4 | 3 |
-| last60d | 2026-09-25 | 1 | 10 | 3 | 3 | 4 | 42 |
-| 90d | 2026-08-26 | 1 | 13 | 3 | 7 | 4 | 45 |
-| last180d | 2026-05-28 | 2 | 24 | 3 | 18 | 4 | 137 |
-| 360d | 2025-11-29 | 22 | 128 | 3 | 90 | 4 | 449 |
-| last720d | 2024-12-04 | 22 | 128 | 3 | 90 | 4 | 653 |
+| 30d | 2026-10-26 | 0 | 6 | 3 | 1 | 4 | 3 |
+| last60d | 2026-09-26 | 1 | 10 | 3 | 3 | 4 | 42 |
+| 90d | 2026-08-27 | 1 | 13 | 3 | 7 | 4 | 45 |
+| last180d | 2026-05-29 | 2 | 24 | 3 | 18 | 4 | 137 |
+| 360d | 2025-11-30 | 22 | 128 | 3 | 90 | 4 | 449 |
+| last720d | 2024-12-05 | 22 | 128 | 3 | 90 | 4 | 653 |
 
 ## Release assets
 
@@ -80,18 +80,6 @@ Total: **291,553** lines of code across **992** files in the top 5 languages.
 | [witr-windows-arm64.zip](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr-windows-arm64.zip) | 2.2 MiB | `native/win/arm64` |
 | [witr.1](https://github.com/pranshuparmar/witr/releases/download/v0.3.4/witr.1) | 2.3 KiB | `other` |
 
-## Distribution status
-
-Reported by **23** distros on [repology.org](https://repology.org/project/witr). **16** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.3.4` | ✅ latest |
-| Debian 14 | `0.3.4` | ✅ latest |
-| Ubuntu 26.04 LTS | `0.2.4` | ⚠️ outdated |
-| Homebrew | `0.3.4` | ✅ latest |
-| Nix unstable | `0.3.4` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `witr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +89,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:00:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:28:18Z._
