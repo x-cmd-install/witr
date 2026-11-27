@@ -38,7 +38,7 @@ Total: **291,553** lines of code across **992** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,447 · **Forks**: 832 · **Open issues**: 94 · **Contributors**: 44
+- **Stars**: 23,457 · **Forks**: 833 · **Open issues**: 94 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **291,553** lines of code across **992** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 7 | 2 | 1 | 4 | 3 |
-| last60d | 2026-09-27 | 1 | 11 | 2 | 3 | 4 | 42 |
-| 90d | 2026-08-28 | 1 | 14 | 2 | 7 | 4 | 45 |
-| last180d | 2026-05-30 | 2 | 25 | 2 | 18 | 4 | 137 |
-| 360d | 2025-12-01 | 22 | 129 | 2 | 90 | 4 | 449 |
-| last720d | 2024-12-06 | 22 | 129 | 2 | 90 | 4 | 653 |
+| 30d | 2026-10-28 | 0 | 7 | 2 | 1 | 4 | 3 |
+| last60d | 2026-09-28 | 1 | 11 | 2 | 2 | 4 | 42 |
+| 90d | 2026-08-29 | 1 | 14 | 2 | 6 | 4 | 45 |
+| last180d | 2026-05-31 | 2 | 25 | 2 | 17 | 4 | 137 |
+| 360d | 2025-12-02 | 22 | 129 | 2 | 90 | 4 | 449 |
+| last720d | 2024-12-07 | 22 | 129 | 2 | 90 | 4 | 653 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for witr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:14:08Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:50:54Z._
